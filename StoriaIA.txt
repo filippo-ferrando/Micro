@@ -1,0 +1,22 @@
+1. alan turing --> importante -> test di turing (funzionamento) --> macchina indistinguibile (dall'essere umano) --> obiettivo entro il 2000 (stimava turing) le macchine sarebbero state indistinguibili
+   
+   1. eugene goostman --> chatbot che ha passato col 33% il test di turing 
+
+2. Logica sfumata
+   
+   1. Logica fuzzy --> parzialmente vero, parzialmente falso
+
+3. Lisp --> (sviluppato nel '58) -> sintassi scritta con [s-expression](https://it.wikipedia.org/wiki/S-expression) 
+
+4. IBM Watson --> risponde a domande poste in "modo naturale" --> vince ad un gioco a quiz il milione di dollari
+
+5. MuseNet --> crea pezzi musicali da se (combinando generi)
+
+6. Kasparov Vs. Deep Blue
+
+7. AlphaGo --> batte il cambione di go 3-0 (go è più complesso di scacchi)
+
+8. 
+
+
+
